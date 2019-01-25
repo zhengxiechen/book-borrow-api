@@ -21,6 +21,7 @@
     "nodemon": "^1.18.9",
     "ts-node": "^8.0.1",
     "tslint": "^5.12.1",
+    "tslint-config-airbnb": "^5.11.1",
     "typescript": "^3.2.4"
   }
 }
