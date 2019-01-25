@@ -1,9 +1,9 @@
-import { Request, Response } from "express";
+import { Request, Response } from 'express';
 
 export class MainController {
   public root(req: Request, res: Response) {
     res.status(200).send({
-      message: "GET request successful!!",
+      message: 'GET request successful!!',
     });
   }
 }
