@@ -1,0 +1,462 @@
+{
+  "048660361X":{
+    "items": [
+      {
+       "kind": "books#volume",
+       "id": "AuHcCgAAQBAJ",
+       "etag": "GhAjqdKko7Q",
+       "selfLink": "https://www.googleapis.com/books/v1/volumes/AuHcCgAAQBAJ",
+       "volumeInfo": {
+        "title": "Thermodynamics",
+        "authors": [
+         "Enrico Fermi"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1956-06-01",
+        "description": "In this classic of modern science, the Nobel Laureate presents a clear treatment of systems, the First and Second Laws of Thermodynamics, entropy, thermodynamic potentials, and much more. Calculus required.",
+        "industryIdentifiers": [
+         {
+          "type": "ISBN_13",
+          "identifier": "9780486603612"
+         },
+         {
+          "type": "ISBN_10",
+          "identifier": "048660361X"
+         }
+        ],
+        "readingModes": {
+         "text": false,
+         "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+         "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+         "containsEpubBubbles": false,
+         "containsImageBubbles": false
+        },
+        "imageLinks": {
+         "smallThumbnail": "http://books.google.com/books/content?id=AuHcCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+         "thumbnail": "http://books.google.com/books/content?id=AuHcCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AuHcCgAAQBAJ&printsec=frontcover&dq=isbn:048660361X&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=AuHcCgAAQBAJ&dq=isbn:048660361X&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thermodynamics.html?hl=&id=AuHcCgAAQBAJ"
+       },
+       "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+       },
+       "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+         "isAvailable": false
+        },
+        "pdf": {
+         "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AuHcCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+       },
+       "searchInfo": {
+        "textSnippet": "In this classic of modern science, the Nobel Laureate presents a clear treatment of systems, the First and Second Laws of Thermodynamics, entropy, thermodynamic potentials, and much more. Calculus required."
+       }
+      }
+     ]
+    },
+  "1107189632":{
+    "items": [
+      {
+       "kind": "books#volume",
+       "id": "82FjDwAAQBAJ",
+       "etag": "thkUu1+m3Bs",
+       "selfLink": "https://www.googleapis.com/books/v1/volumes/82FjDwAAQBAJ",
+       "volumeInfo": {
+        "title": "Introduction to Quantum Mechanics",
+        "authors": [
+         "David J. Griffiths",
+         "Darrell F. Schroeter"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2018-08-16",
+        "description": "A clear and accessible introduction to theory and applications of quantum mechanics for junior/senior undergraduate students of physics.",
+        "industryIdentifiers": [
+         {
+          "type": "ISBN_13",
+          "identifier": "9781107189638"
+         },
+         {
+          "type": "ISBN_10",
+          "identifier": "1107189632"
+         }
+        ],
+        "readingModes": {
+         "text": false,
+         "image": true
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "categories": [
+         "Science"
+        ],
+        "averageRating": 4.0,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+         "containsEpubBubbles": false,
+         "containsImageBubbles": false
+        },
+        "imageLinks": {
+         "smallThumbnail": "http://books.google.com/books/content?id=82FjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+         "thumbnail": "http://books.google.com/books/content?id=82FjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=82FjDwAAQBAJ&printsec=frontcover&dq=isbn:1107189632&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=82FjDwAAQBAJ&dq=isbn:1107189632&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Quantum_Mechanics.html?hl=&id=82FjDwAAQBAJ"
+       },
+       "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+       },
+       "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+         "isAvailable": false
+        },
+        "pdf": {
+         "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=82FjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+       },
+       "searchInfo": {
+        "textSnippet": "A clear and accessible introduction to theory and applications of quantum mechanics for junior/senior undergraduate students of physics."
+       }
+      }
+     ]
+  },
+  "9781624102547":{
+    "items": [
+      {
+       "kind": "books#volume",
+       "id": "0ajbngEACAAJ",
+       "etag": "I2kCeW4qOwg",
+       "selfLink": "https://www.googleapis.com/books/v1/volumes/0ajbngEACAAJ",
+       "volumeInfo": {
+        "title": "Introduction to Aircraft Flight Mechanics",
+        "subtitle": "Performance, Static Stability, Dynamic Stability, Classical Feedback Control, and State-space Foundations",
+        "authors": [
+         "Thomas R. Yechout",
+         "Steven L. Morris",
+         "David E. Bossert",
+         "Wayne F. Hallgren",
+         "James K. Hall"
+        ],
+        "publisher": "American Institute of Aeronautics & Astronautics",
+        "publishedDate": "2014",
+        "description": "Suitable for use in undergraduate aeronautical engineering curricula, this title is written for those first encountering the topic by clearly explaining the concepts and derivations of equations involved in aircraft flight mechanics. It also features insights about the A-10 based upon the author's career experience with this aircraft.",
+        "industryIdentifiers": [
+         {
+          "type": "ISBN_10",
+          "identifier": "1624102549"
+         },
+         {
+          "type": "ISBN_13",
+          "identifier": "9781624102547"
+         }
+        ],
+        "readingModes": {
+         "text": false,
+         "image": false
+        },
+        "pageCount": 700,
+        "printType": "BOOK",
+        "categories": [
+         "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+         "smallThumbnail": "http://books.google.com/books/content?id=0ajbngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+         "thumbnail": "http://books.google.com/books/content?id=0ajbngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0ajbngEACAAJ&dq=isbn:9781624102547&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0ajbngEACAAJ&dq=isbn:9781624102547&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Aircraft_Flight_Mechanic.html?hl=&id=0ajbngEACAAJ"
+       },
+       "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+       },
+       "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+         "isAvailable": false
+        },
+        "pdf": {
+         "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0ajbngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+       },
+       "searchInfo": {
+        "textSnippet": "Suitable for use in undergraduate aeronautical engineering curricula, this title is written for those first encountering the topic by clearly explaining the concepts and derivations of equations involved in aircraft flight mechanics."
+       }
+      }
+     ]
+  },
+  "9781259129919":{
+    "items": [
+      {
+       "kind": "books#volume",
+       "id": "D1ZojgEACAAJ",
+       "etag": "WGzcEkEJNk8",
+       "selfLink": "https://www.googleapis.com/books/v1/volumes/D1ZojgEACAAJ",
+       "volumeInfo": {
+        "title": "Fundamentals of Aerodynamics",
+        "authors": [
+         "John Anderson"
+        ],
+        "publisher": "McGraw-Hill Education",
+        "publishedDate": "2016-03-21",
+        "description": "Fundamentals of Aerodynamics is meant to be read. The writing style is intentionally conversational in order to make the book easier to read. The book is designed to talk to the reader; in part to be a self-teaching instrument. Learning objectives have been added to each chapter to reflect what is believed to be the most important items to learn from that particular chapter. This edition emphasizes the rich theoretical and physical background of aerodynamics, and marbles in many historical notes to provide a background as to where the aerodynamic technology comes from. Also, new with this edition, are \"Integrated Work Challenges\" that pertain to the chapter as a whole, and give the reader the opportunity to integrate the material in that chapter, in order to solve a \"bigger picture\". McGraw-Hill Education's Connect, is also available as an optional, add on item. Connect is the only integrated learning system that empowers students by continuously adapting to deliver precisely what they need, when they need it, how they need it, so that class time is more effective. Connect allows the professor to assign homework, quizzes, and tests easily and automatically grades and records the scores of the student's work. Problems are randomized to prevent sharing of answers an may also have a \"multi-step solution\" which helps move the students' learning along if they experience difficulty.",
+        "industryIdentifiers": [
+         {
+          "type": "ISBN_10",
+          "identifier": "1259129918"
+         },
+         {
+          "type": "ISBN_13",
+          "identifier": "9781259129919"
+         }
+        ],
+        "readingModes": {
+         "text": false,
+         "image": false
+        },
+        "pageCount": 1152,
+        "printType": "BOOK",
+        "categories": [
+         "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+         "containsEpubBubbles": false,
+         "containsImageBubbles": false
+        },
+        "imageLinks": {
+         "smallThumbnail": "http://books.google.com/books/content?id=D1ZojgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+         "thumbnail": "http://books.google.com/books/content?id=D1ZojgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=D1ZojgEACAAJ&dq=isbn:9781259129919&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=D1ZojgEACAAJ&dq=isbn:9781259129919&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentals_of_Aerodynamics.html?hl=&id=D1ZojgEACAAJ"
+       },
+       "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+       },
+       "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+         "isAvailable": false
+        },
+        "pdf": {
+         "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D1ZojgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+       },
+       "searchInfo": {
+        "textSnippet": "Fundamentals of Aerodynamics is meant to be read. The writing style is intentionally conversational in order to make the book easier to read. The book is designed to talk to the reader; in part to be a self-teaching instrument."
+       }
+      }
+     ]
+  },
+  "0205259472":{
+    "items": [
+      {
+       "kind": "books#volume",
+       "id": "nDYSnwEACAAJ",
+       "etag": "C6tbZegGAwQ",
+       "selfLink": "https://www.googleapis.com/books/v1/volumes/nDYSnwEACAAJ",
+       "volumeInfo": {
+        "title": "Asian Art",
+        "authors": [
+         "Dorinda Neave",
+         "Lara C. W. Blanchard",
+         "Marika Sardar",
+         "Miranda Bruce-Mitford"
+        ],
+        "publishedDate": "2015",
+        "description": "\"Asian Art provides students with an accessible introduction to the history of Asian Art. Students will gain an understanding of the emergence and evolution of Asian art in all its diversity. Using a range of analytical skills, readers will learn to recognize patterns of continuity and change between the arts and cultures of various regions comprising Asia. Images set within their broader cultural and religious backgrounds provides students with important contextual information to understand and decode artworks.\" -- Publisher's description",
+        "industryIdentifiers": [
+         {
+          "type": "ISBN_10",
+          "identifier": "0205259472"
+         },
+         {
+          "type": "ISBN_13",
+          "identifier": "9780205259472"
+         }
+        ],
+        "readingModes": {
+         "text": false,
+         "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+         "Art, Asian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+         "containsEpubBubbles": false,
+         "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nDYSnwEACAAJ&dq=isbn:0205259472&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nDYSnwEACAAJ&dq=isbn:0205259472&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Asian_Art.html?hl=&id=nDYSnwEACAAJ"
+       },
+       "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+       },
+       "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+         "isAvailable": false
+        },
+        "pdf": {
+         "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nDYSnwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+       },
+       "searchInfo": {
+        "textSnippet": "&quot;Asian Art provides students with an accessible introduction to the history of Asian Art. Students will gain an understanding of the emergence and evolution of Asian art in all its diversity."
+       }
+      },
+      {
+       "kind": "books#volume",
+       "id": "0EuCMAEACAAJ",
+       "etag": "tdOeJ4tDwT4",
+       "selfLink": "https://www.googleapis.com/books/v1/volumes/0EuCMAEACAAJ",
+       "volumeInfo": {
+        "title": "History of Modern Art",
+        "subtitle": "Painting, Sculpture, Architecture, Photography",
+        "authors": [
+         "H. H. Arnason",
+         "Elizabeth C. Mansfield"
+        ],
+        "publisher": "Pearson College Division",
+        "publishedDate": "2013",
+        "description": "Since it first appeared in 1968, History of Modern Art has emphasized the unique formal properties of artworks, and the book has long been recognized for the acuity of its visual analysis.",
+        "industryIdentifiers": [
+         {
+          "type": "ISBN_10",
+          "identifier": "0205259472"
+         },
+         {
+          "type": "ISBN_13",
+          "identifier": "9780205259472"
+         }
+        ],
+        "readingModes": {
+         "text": false,
+         "image": false
+        },
+        "pageCount": 816,
+        "printType": "BOOK",
+        "categories": [
+         "Art"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+         "containsEpubBubbles": false,
+         "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0EuCMAEACAAJ&dq=isbn:0205259472&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0EuCMAEACAAJ&dq=isbn:0205259472&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/History_of_Modern_Art.html?hl=&id=0EuCMAEACAAJ"
+       },
+       "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+       },
+       "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+         "isAvailable": false
+        },
+        "pdf": {
+         "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0EuCMAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+       },
+       "searchInfo": {
+        "textSnippet": "Since it first appeared in 1968, History of Modern Art has emphasized the unique formal properties of artworks, and the book has long been recognized for the acuity of its visual analysis."
+       }
+      }
+     ]
+  }
+}
