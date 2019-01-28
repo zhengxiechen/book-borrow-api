@@ -1,12 +1,12 @@
-import {Request, Response} from "express";
+import BookController from '../controllers/BookController';
 
-import books = require("../db/book.json"); // load our local database file
+export default class Books {
+  private bookController: BookController = new BookController();
 
-export class Pokemons {
-    public routes(app): void { // received the express instance from app.ts file
-        app.route("/books")
-        .get((req: Request, res: Response) => {
-            res.status(200).send(books);
-        });
-    }
+  public routes(app: any): void {
+    app.route('/books')
+      .get(this.bookController.getBooks);
+    app.route('/books/:id')
+      .get(this.bookController.getBook);
   }
+}

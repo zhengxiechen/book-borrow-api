@@ -1,29 +1,82 @@
 {
 	"info": {
-		"_postman_id": "677a1b6d-04ba-4631-b661-569c3e1bf1ec",
+		"_postman_id": "4901abaf-d196-4adc-8d92-d9478ae807fe",
 		"name": "Book Borrow API",
 		"description": "Collection of book borrow api tests",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
 		{
-			"name": "Test",
-			"request": {
-				"method": "GET",
-				"header": [],
-				"body": {
-					"mode": "raw",
-					"raw": ""
+			"name": "books",
+			"item": [
+				{
+					"name": "All Books",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{url}}/books/{{bookId}}",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"books",
+								"{{bookId}}"
+							]
+						}
+					},
+					"response": []
 				},
-				"url": {
-					"raw": "localhost:3000",
-					"host": [
-						"localhost"
-					],
-					"port": "3000"
+				{
+					"name": "Book by Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{url}}/books/{{bookId}}",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"books",
+								"{{bookId}}"
+							]
+						}
+					},
+					"response": []
 				}
-			},
-			"response": []
+			]
+		},
+		{
+			"name": "root",
+			"item": [
+				{
+					"name": "Test",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{url}}",
+							"host": [
+								"{{url}}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
 		}
 	]
 }
